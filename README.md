@@ -6,17 +6,17 @@
 
 ###
 
-<h2 align="center">Hi there, I'm Arnav Soney 👋</h2>
+<h1 align="center">Hi there, I'm Arnav Soney 👋</h1>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arnav-Soney.Arnav-Soney&left_color=turquoise&left_text=Profile%20Visitors" />
+  <img width="50%" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=Arnav-Soney.Arnav-Soney&left_color=turquoise&left_text=Profile%20Visitors" />
 </div>
 
 ###
 
-<h2 align="left">🚀 About Me</h2>
+<h1 align="left">🚀 About Me</h1>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">🧰 Tech Stack</h2>
+<h1 align="left">🧰 Tech Stack</h1>
 
 ###
 
@@ -72,22 +72,22 @@
 
 ###
 
-<h3 align="left">🌐 Connect with Me</h3>
+<h1 align="left">🌐 Connect with Me</h1>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arnav-soney/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="65" alt="linkedin logo" />
+    <img width="50%" height="25" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="65" alt="linkedin logo" />
   </a>
   <a href="https://discordapp.com/users/1171151012116045890" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="65" alt="discord logo" />
+    <img width="50%" height="25" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="65" alt="discord logo" />
   </a>
   <a href="mailto:arnav.soney@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="65" alt="gmail logo" />
+    <img width="50%" height="25" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="65" alt="gmail logo" />
   </a>
   <a href="https://www.instagram.com/arnavsoney" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="65" alt="instagram logo" />
+    <img width="50%" height="25" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="65" alt="instagram logo" />
   </a>
 </div>
 
